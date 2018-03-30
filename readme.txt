@@ -1,18 +1,1 @@
-Git is a fuck tool 
-Git i am learning right now
-Git is free software distributed under the GPL
-do you want learn git?
-Git has a mutable index called stage.
-
-add the word
-i no have other
-
-add new file hello.txt but master no
-
-
-i need the conflicts
-i am in the dev branch
-
-chang the world
-
-change the item
+i
