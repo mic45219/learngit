@@ -8,3 +8,7 @@ add the word
 i no have other
 
 add new file hello.txt but master no
+
+
+i need the conflicts
+i am in the dev branch
