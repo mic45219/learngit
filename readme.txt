@@ -6,3 +6,5 @@ Git has a mutable index called stage.
 
 add the word
 i no have other thing
+
+this is branch dev thing
