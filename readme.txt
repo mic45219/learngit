@@ -7,4 +7,5 @@ Git has a mutable index called stage.
 add the word
 i no have other 
 
-this is master doing
+
+this is merge doing
