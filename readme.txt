@@ -5,6 +5,6 @@ do you want learn git?
 Git has a mutable index called stage.
 
 add the word
-i no have other thing
+i no have other 
 
-this is branch dev thing
+this is master doing
