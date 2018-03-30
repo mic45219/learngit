@@ -6,3 +6,4 @@ is a new life
 my english is so bad
 
 is stash test
+copy to master
